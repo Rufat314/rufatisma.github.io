@@ -21,11 +21,7 @@ PhD Candidate in Operations Management / Economics
 
 ## About
 
-I am a PhD candidate in Operations Management with research interests in information design, contests, and decision-making under uncertainty.
-
-My work studies how information and learning affect strategic behavior and outcomes in competitive environments.
-
----
+I am a PhD candidate in Economics and Operations. My research focuses on information disclosure with applications to supply chains, digital platforms, and contests.
 
 ## CV
 
