@@ -15,10 +15,9 @@ PhD Candidate in Operations Management / Economics
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6150728)
 
 - **Disclosure in Hosted Design Contests**  
-  *Solo-authored*  
-  Working paper  
+  *Solo-authored*    
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6150686)
----
+
 
 ## About
 
