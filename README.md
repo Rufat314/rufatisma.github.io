@@ -1,6 +1,6 @@
 # Rufat Ismayilov
 
-PhD Candidate in Operations Management / Economics  
+PhD Candidate in Operations / Economics  
 [ESMT]
 
 ---
